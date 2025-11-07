@@ -1,7 +1,7 @@
 const User = require('./user')
 
-class Client {
-
+class Client extends User{
+    
 }
 
 module.exports = Client
